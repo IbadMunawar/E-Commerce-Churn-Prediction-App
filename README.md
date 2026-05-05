@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ChurnIQ — E-Commerce Customer Churn Intelligence Platform
 
 An end-to-end ML web app that predicts customer churn and generates AI-powered business insights using Claude (Anthropic API).
@@ -28,3 +29,7 @@ E-Commerce Customer Churn dataset with 5,630 customers and 20 features including
 
 ## Author
 Ibad Munawar — Data Scientist | NED University
+=======
+# E-Commerce-Churn-Prediction-App
+End-to-end ML web app for customer churn prediction with AI-powered insights
+>>>>>>> 803c4b309a7c7632d4183423bd4d7e4b08ee588a
